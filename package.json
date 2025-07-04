@@ -1,0 +1,26 @@
+{
+  "name": "studia2",
+  "version": "1.0.0",
+  "description": "Program dodajacy i odejmujacy dwie liczby",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dejfuska/studia2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dejfuska/studia2/issues"
+  },
+  "homepage": "https://github.com/Dejfuska/studia2#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
