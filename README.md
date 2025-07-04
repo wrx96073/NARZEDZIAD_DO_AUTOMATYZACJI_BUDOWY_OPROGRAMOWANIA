@@ -1,14 +1,16 @@
-#Dodawanie liczb naturalnych w pythonie
+#Dodawanie i odejmowanie liczb w pythonie
 
-Program dodajacy dwie liczby naturalne
+Program dodajacy i odejmujacy dwie liczby
 
 ##FUNKCJONALNOSC
 
-- dodawanie liczb naturalnych
+- odejmowanie liczb
+- dodawanie liczb
 
 ##UZYCIE 
 
-dodanie lduzych liczb, niepoliczalnych w glowie
+dodanie lub odjecie duzych liczb, niepoliczalnych w glowie
 
 ## LICENCJA
 brak
+## Kalkulator dodany
